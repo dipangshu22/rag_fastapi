@@ -12,3 +12,4 @@ groq
 colorama
 python-dotenv
 requests
+Pillow
